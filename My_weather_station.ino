@@ -1,5 +1,5 @@
 /*This is Aakash's Weather Station's sketch
- * This the first arduino project that I have made, I hope you like :-}
+ * This the first arduino project that I have made, I hope you like it :-}
  * To build this project you need:
  * Arduino Uno/Arduino Mega
  * 3.5 inch TFT Display
