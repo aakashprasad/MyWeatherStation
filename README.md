@@ -6,3 +6,4 @@ Arduino Uno/Mega
 3.5 inch TFT Display
 DHT11 sensor
 MQ2 Gas sensor
+For more info on the project, visit : https://aakashprasad.com/portfolio/arduino-weather-station/
